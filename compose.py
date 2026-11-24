@@ -497,8 +497,9 @@ def paint_header(d):
     f = serif_b(54)
     d.text(((W - d.textlength(mast, font=f)) / 2, 30), mast, font=f, fill=INK)
     d.line([MARGIN, 92, W - MARGIN, 92], fill=INK, width=2)
-    sub = ("Huang returns to Nvidia, +31%  \u2022  NATO sends AWACS to Poland  "
-           "\u2022  Russian jets spark shelter alert off Ulleungdo")
+    sub = ("Huang returns to Nvidia, +31% (Mon)  \u2022  NATO sends AWACS "
+           "to Poland (Mon)  \u2022  Russian jets spark shelter alert off "
+           "Ulleungdo")
     f2 = serif(15)
     d.text(((W - d.textlength(sub, font=f2)) / 2, 98), sub, font=f2,
            fill=(60, 60, 60))
@@ -513,10 +514,10 @@ def paint_numbers(d):
     cells = [
         ("+31%", "Nvidia shares, Monday"),
         ("AWACS", "deployed to Poland"),
-        ("24", "confirmed dead, Cikande fire"),
+        ("26", "confirmed dead, Cikande fire"),
         ("24,000 cr", "Nepal aid package (NPR)"),
         ("11", "killed in Dymer, Kyiv region"),
-        ("+4.7%", "S&P 500 Monday rebound"),
+        ("Nikkei +3.9%", "Tue: Nvidia -5% pre-market"),
     ]
     y0, y1 = 146, 194
     cw = CONTENT_W / 6.0
@@ -651,8 +652,8 @@ def paint_footer(d, y):
            font=sans(10), fill=INK)
     d.text((MARGIN, y + 16), SOURCES_LINE, font=sans(9), fill=(70, 70, 70))
     d.text((MARGIN, y + 28),
-           "Regions: Americas 10 \u00b7 Asia 11 \u00b7 Europe 9 \u00b7 Africa 6 \u00b7 "
-           "Middle East 4 \u00b7 World/Global 3 \u00b7 Oceania 1 \u2014 Original "
+           "Regions: Americas 10 \u00b7 Asia 10 \u00b7 Europe 9 \u00b7 Africa 6 \u00b7 "
+           "Middle East 5 \u00b7 World/Global 3 \u00b7 Oceania 1 \u2014 Original "
            "flat-vector drawings, no photographs.",
            font=sans_b(9), fill=(70, 70, 70))
     d.text((MARGIN, y + 40),
