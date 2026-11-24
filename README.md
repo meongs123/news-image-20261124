@@ -13,10 +13,11 @@ DATE CHECK box naming the stories that are *not* 24 November news.
 
 - Masthead: **Tuesday 24 November 2026**, with the count strip
   (44 stories · 7 regions · 13 illustrated), a numbers strip
-  (Nvidia +31%, AWACS to Poland, 24 confirmed dead in Cikande,
-  NPR 24,000-crore Nepal package, 11 killed in Dymer, S&P 500 +4.7%)
-  and a segmented region bar (Americas 10 · Asia 11 · Europe 9 ·
-  Africa 6 · Middle East 4 · World/Global 3 · Oceania 1).
+  (Nvidia +31%, AWACS to Poland, 26 confirmed dead in Cikande,
+  NPR 24,000-crore Nepal package, 11 killed in Dymer, Nikkei +3.9% /
+  Tue: Nvidia -5% pre-market)
+  and a segmented region bar (Americas 10 · Asia 10 · Europe 9 ·
+  Africa 6 · Middle East 5 · World/Global 3 · Oceania 1).
 - Lead stories: **Huang returns to Nvidia (+31%)**, **NATO sends AWACS
   to Poland**, and the **Russian jets that sparked a shelter alert off
   Ulleungdo** (Tuesday morning, genuinely 24 November news).
@@ -28,16 +29,16 @@ DATE CHECK box naming the stories that are *not* 24 November news.
 - Every picture is an original flat-vector drawing made in code. No
   photographs. Sources are tagged per story.
 
-## Facts, frozen at build time (Tue 24 Nov ~14:45 WIB)
+## Facts, frozen at build time (Tue 24 Nov ~20:15 WIB)
 
 - Nvidia: **+31% Monday**, S&P 500 +4.7%, Nasdaq +6.4%; Huang reinstated
   11 days after resigning; the alleged link to a suspected Chinese
   intelligence asset is attributed, not stated as fact.
 - Ulleungdo: Russian jets entered the Korea Air Defence Identification
-  Zone (KADIZ) — **not sovereign airspace**; shelter alert 07:52, lifted
-  in about 5 minutes.
-- Cikande fire: **24 confirmed dead, 28 missing** — 26 body bags found
-  Tuesday are not deaths.
+  Zone (KADIZ) — **not sovereign airspace**; Seoul summoned Russia's
+  defence attaché Col. Marchenko Tue; he gave no answer on intent.
+- Cikande fire: **26 confirmed dead, ~30 missing** — toll rose Tue
+  (was 24 Mon); 26 body bags await DNA ID.
 - Nepal package: **NPR 24,000 crore** (wires split $1.62bn vs $1.63bn).
 - Colombia car bomb: **12 hurt** (later El Tiempo report, not the first 5).
 - Gaza: **1,675 killed since the ceasefire**, as attributed by the Gaza

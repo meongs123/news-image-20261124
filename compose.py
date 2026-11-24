@@ -517,7 +517,7 @@ def paint_numbers(d):
         ("26", "confirmed dead, Cikande fire"),
         ("24,000 cr", "Nepal aid package (NPR)"),
         ("11", "killed in Dymer, Kyiv region"),
-        ("Nikkei +3.9%", "Tue: Nvidia -5% pre-market"),
+        ("Nikkei +3.9%", "Tue close; Nvidia -5% pre-mkt"),
     ]
     y0, y1 = 146, 194
     cw = CONTENT_W / 6.0

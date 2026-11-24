@@ -40,7 +40,7 @@ LEADS = [
      "Reuters", "fire"),
     (5, "Oceania", "Sport", "CRICKET",
      "INDIA TEST ENDS IN DRAW",
-     "NZ 239/5 hold on in Wellington; India 720/9 dec. Mitchell 49*.",
+     "NZ 239/5 hold on in Wellington; India 720/9 dec. Mitchell 49*. Mon.",
      "ESPNcricinfo", "cricket"),
     (6, "Asia", "Politics", "DIPLOMACY",
      "INDIA GIVES NEPAL NPR 24,000-CRORE AID",
@@ -48,7 +48,7 @@ LEADS = [
      "Hindu BusinessLine", "flags"),
     (7, "Europe", "War", "UKRAINE",
      "FOUR-WAY TALKS STALL: NO DATE SET",
-     "Offered talks Mon; Kremlin Tue: no date set. "
+     "Zelenskyy offered talks Mon; Kremlin Tue: no date. "
      "Trump meets Rutte Wed.",
      "Europe Says", "talks"),
     (8, "Americas", "War", "COLOMBIA",
@@ -62,12 +62,12 @@ LEADS = [
      "Reuters", "picket"),
     (10, "Americas", "Defence", "CANADA",
      "PENTAGON REBUKES CANADA",
-     "Fact sheet: Ottawa 'falling short' on defence; only 41.9% "
-     "of air fleet ready.",
+     "Fact sheet: Ottawa 'falling short' on defence; 41.9% "
+     "of air fleet ready. Mon.",
      "AP", "jet"),
     (11, "Americas", "Tech", "CHIPS",
      "US BLACKLISTS MEGASPEED",
-     "Commerce bars chip sales to Nvidia-linked firm.",
+     "Commerce bars chip sales to Nvidia-linked firm. Mon.",
      "Reuters", "ban"),
     (12, "Europe", "War", "UKRAINE",
      "DYMER: FINAL TOLL 11 DEAD",
